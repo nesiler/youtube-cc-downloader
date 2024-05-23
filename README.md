@@ -1,5 +1,3 @@
-Absolutely! Here's a comprehensive `README.md` file for your Go project, structured to be informative and helpful for users and contributors:
-
 **README.md**
 
 # YouTube Subtitle Downloader and CSV Generator
