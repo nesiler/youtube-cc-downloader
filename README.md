@@ -1,5 +1,3 @@
-**README.md**
-
 # YouTube Subtitle Downloader and CSV Generator
 
 This Go project automates the download of YouTube video subtitles and generates a CSV file containing video details and subtitle content.
